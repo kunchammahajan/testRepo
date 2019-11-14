@@ -1,0 +1,8 @@
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="http://ehcache.org/ehcache.xsd"
+     name="CRUDConfig" maxBytesLocalHeap="64M" updateCheck="false">
+  <cache name="hello-world"/>
+  <cache name="crud"/>
+  <cache name="batchC"/>
+   <cache name="batchCa"/>
+</ehcache>
